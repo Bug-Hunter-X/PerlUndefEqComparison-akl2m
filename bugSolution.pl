@@ -1,0 +1,1 @@
+my $var = undef;if (!defined $var || $var eq 'some string') { print "Match!"; }else { print "No Match!";}
